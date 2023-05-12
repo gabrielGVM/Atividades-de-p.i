@@ -1,0 +1,7 @@
+1- Eu Dona Maria, como confeiteira, quero um sistema de avaliação, para que assim eu possa saber se preciso melhorar em algo.
+
+2- Eu Dona Maria, como a chefe da confeitaria, quero um sistema para recebimento de pedidos para a confeitaria, para que assim sejam evitados atrasos nas entregas.
+
+3- Eu Dona Maria, como vendedora, quero um sistema de comunicação com os cliente automatizado, para que assim eu possa melhorar a comunicação.
+
+4- Eu Dona Maria, enquanto confeiteira, quero um sistemade pagamento online, para que assim as vendas possam ser maximizadas.
